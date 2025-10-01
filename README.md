@@ -42,6 +42,8 @@ This mod adds a magical item - Life Essence potion!
 
 
 Let Life Essence help you survive in the harsh world of death penalties!
+
 **如果您的存档因本模组被删除，本模组作者概不负责**
+
 
 
