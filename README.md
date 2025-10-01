@@ -6,7 +6,6 @@
 - 🧪 添加生命精油物品
 - ❤️ 使用后永久增加1点最大生命值
 - ⚡ 与死亡惩罚模组完美兼容
-- 🎮 支持单机和多人游戏
 - 🔧 无需额外配置，开箱即用
 
 ## 使用方法：
@@ -29,7 +28,6 @@ This mod adds a magical item - Life Essence potion!
 - 🧪 Adds Life Essence item
 - ❤️ Permanently increases maximum health by 1 when consumed
 - ⚡ Perfectly compatible with Death Penalty mod
-- 🎮 Supports both singleplayer and multiplayer
 - 🔧 No configuration needed, works out of the box
 
 ## Usage:
@@ -41,5 +39,6 @@ This mod adds a magical item - Life Essence potion!
 - Requires Death Penalty mod (deathpenalty)
 - Minecraft 1.20.1
 - Forge 47.4.6+
+
 
 Let Life Essence help you survive in the harsh world of death penalties!
