@@ -10,7 +10,7 @@
 
 ## 使用方法：
 1. 在创造模式的"食物"或"材料"标签中找到生命精油
-2. 或者使用命令：/give @p lifeessence:lifeessentialoil
+2. 或者使用命令：/give [目标选择器（Target Selector）] lifeessence:lifeessentialoil
 3. 右键饮用，永久增加最大生命值
 
 ## 依赖要求：
@@ -32,7 +32,7 @@ This mod adds a magical item - Life Essence potion!
 
 ## Usage:
 1. Find Life Essence in Creative mode under "Food" or "Ingredients" tabs
-2. Or use command: /give @p lifeessence:lifeessentialoil
+2. Or use command: /give [目标选择器（Target Selector）] lifeessence:lifeessentialoil
 3. Right-click to consume and permanently increase max health
 
 ## Requirements:
@@ -42,3 +42,4 @@ This mod adds a magical item - Life Essence potion!
 
 
 Let Life Essence help you survive in the harsh world of death penalties!
+
