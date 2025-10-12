@@ -19,6 +19,7 @@
 - Forge 47.4.6+
 
 让生命精油帮助你在残酷的死亡惩罚世界中生存下来！
+
 **合成配方：在酿造台中放一个金苹果和三个粗制药水**
 
 # Life Essence Mod
@@ -43,7 +44,9 @@ This mod adds a magical item - Life Essence potion!
 
 
 Let Life Essence help you survive in the harsh world of death penalties!
+
 **synthetic formula：Put a Golden Apple and three bottles of Awkward Potion in the Brewing Stand**
+
 
 
 
