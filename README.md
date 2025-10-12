@@ -36,12 +36,13 @@ This mod adds a magical item - Life Essence potion!
 3. Right-click to consume and permanently increase max health
 
 ## Requirements:
-- Requires Death Penalty mod (deathpenalty)
+- Requires Death Penalty mod ([Death Reduces Life Mod](https://github.com/hehe666666/Death-Reduces-Life-Mod))
 - Minecraft 1.20.1
 - Forge 47.4.6+
 
 
 Let Life Essence help you survive in the harsh world of death penalties!
+
 
 
 
