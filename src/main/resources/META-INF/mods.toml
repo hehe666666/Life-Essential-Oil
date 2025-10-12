@@ -5,7 +5,7 @@ showAsResourcePack=false
 
 [[mods]]
 modId="lifeessence"
-version="1.0.0"
+version="1.0.1"
 displayName="生命精油"
 authors="liuge"
 description="添加可以增加最大生命值的生命精油物品"
