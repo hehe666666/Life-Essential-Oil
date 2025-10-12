@@ -14,7 +14,7 @@
 3. 右键饮用，永久增加最大生命值
 
 ## 依赖要求：
-- 必须安装死亡惩罚模组 (deathpenalty)
+- 必须安装死亡惩罚模组 ([Death Reduces Life Mod](https://github.com/hehe666666/Death-Reduces-Life-Mod))
 - Minecraft 1.20.1
 - Forge 47.4.6+
 
@@ -42,6 +42,7 @@ This mod adds a magical item - Life Essence potion!
 
 
 Let Life Essence help you survive in the harsh world of death penalties!
+
 
 
 
